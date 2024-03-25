@@ -1,11 +1,10 @@
 # GameLabs - Audio
 
-Ziel: Erarbeitung von Sound integration in Unity bei komplexeren Anwendungen  
+Ziel: Erarbeitung von Soundintegration in Unity bei komplexeren Anwendungen  
 Technologien:
 - FMOD - https://www.fmod.com/unity  
 - ResonanceAudio - https://www.resonanceaudio.in/  
-  
-Generell wäre für dieses Projekt auch eine Umsetzung in VR mit Ambisound sehr interessant.
+- VR - Meta Quest
 
 ## Teilprojekte
 
