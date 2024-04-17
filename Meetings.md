@@ -13,3 +13,17 @@
   - FMOD Projekt integrieren
   - Steuerung implementieren
   - evtl. Visualizer
+
+## 18.04.24
+
+- Audio funktioniert
+- Spatializing ist korrekt
+  - Richtung der Audiospuren stimmt
+  - Entfernung verringert die Lautstärke
+- Steuerung funktioniert teilweise
+  - Audiospuren sind bewegbar
+  - werfen und heranziehen funktioniert noch nicht
+- TODO:
+  - Steuerung fertig
+  - Visualizer
+  - je nach verbleibender Zeit mit Occlusion anfangen
