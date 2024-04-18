@@ -25,6 +25,7 @@
   - Audiospuren sind bewegbar
   - werfen und heranziehen funktioniert noch nicht
 - TODO:
+  - Quest zurücksetzten 
   - Steuerung fertig
   - Visualizer
   - je nach verbleibender Zeit mit Occlusion anfangen
