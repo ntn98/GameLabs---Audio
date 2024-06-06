@@ -38,6 +38,7 @@
   - Tropfen werden random generiert und erzeugen Aufprallgeräusch bei Kollision
   - Convolusion Reverb als Hall -> natürlicher Sound
 - Übergang von Hallzonen Innen <--> Aussen
+  - schöner als gängige Snapshot Lösung
 - Fackel mit Sound
   - Licht flackert reaktiv zum Audiofile
   - Bewegung der Fackel erzeugt "Whoosh"
