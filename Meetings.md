@@ -43,7 +43,7 @@
   - Licht flackert reaktiv zum Audiofile
   - Bewegung der Fackel erzeugt "Whoosh"
   - noch nicht 100% ausgereift, zu schnelle Bewegung bringt PC zum Absturz
-- gefunden, warum Visulaizer nicht funktioniert hat:
+- gefunden, warum Visualizer nicht funktioniert hat:
   - FMOD bietet zwei Spacializer Möglichkeiten: 3D und Objekt
   - 3D ist akkurater weil es Plattformspeziefische Surroundsoundtechniken nutzt
   - dabei wird der Sound aber aus der FMOD Pipeline herausgenommen
