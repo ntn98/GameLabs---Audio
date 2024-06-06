@@ -36,7 +36,7 @@
 - Tropfsteinhöle als Prototyp:
   - Hässlich aber funktioniert
   - Tropfen werden random generiert und erzeugen Aufprallgeräusch bei Kollision
-  - Convolusion Reverb als Hall -> natürlicher Sound
+  - Convolusion Reverb als Hall -> natürlicher Sound aber etwas Rechenintensiver
 - Übergang von Hallzonen Innen <--> Aussen
   - schöner als gängige Snapshot Lösung
 - Fackel mit Sound
