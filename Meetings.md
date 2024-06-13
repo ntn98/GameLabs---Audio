@@ -3,6 +3,7 @@
 - [04.04.](#040424)
 - [18.04.](#180424)
 - [06.06.](#060624)
+- [13.06.](#130624)
   
 ## 04.04.24
 
@@ -33,7 +34,7 @@
 
 ## 06.06.24
 
-- Tropfsteinhöle als Prototyp:
+- Tropfsteinhöhle als Prototyp:
   - Hässlich aber funktioniert
   - Tropfen werden random generiert und erzeugen Aufprallgeräusch bei Kollision
   - Convolusion Reverb als Hall -> natürlicher Sound aber etwas Rechenintensiver
@@ -56,4 +57,17 @@
   - Fackel ausarbeiten
   - Occlusion
   - schönere Grafik?
+  - mehr Räume
+
+## 13.06.24
+
+- Tropfsteinhöhle ausmodelliert
+- Terrain als Spielwelt
+- Hallzonen beachten jetzt Drehung des Kopfes
+- Fackel lässt sich greifen, hat aber Offset
+- TODO:
+  - Bewegung: 
+    - Locomotive Interaction ist von OVR vorhanden, funktioniert aber noch nicht
+    - Schrittsounds sind schwer mit Spielerbewegung zu synchronisieren
+  - Occlusion
   - mehr Räume
